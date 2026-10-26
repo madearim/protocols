@@ -36,7 +36,7 @@ Resuspend the cells in 6 ml glycerol and re-centrifuge.
 
 11.	Cells can aliquoted and saved in -80 or used immediately for electroporation. 
 To freeze, add 80 ul of the culture to 1.5 ml tubes on wet ice. 
-Once aliquoted, transfer the tubes to dry ice for ~10 minutes before transfer them to a -80°C freezer. 
+Once aliquoted, transfer the tubes to dry ice (Hutchinson 3rd floor common room) for ~10 minutes before transfer them to a -80°C freezer. 
 The cultures should be good for >6 months. 
 Date the outside of the box or include a paper tag with the cells to indicate their "Best By" date.
 
