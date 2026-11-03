@@ -4,7 +4,7 @@
 
 ### 1. Prepare Plants
 
-Sow seed 17-21 daus before inoculation date. 
+Sow seed 17-21 days before inoculation date. 
 
 Follow directions in [Growing Tomato Plants Protocol](tomato_growth.md)
 
